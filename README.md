@@ -5,7 +5,7 @@
 
 ## 👩🏻‍💻 Introductions  
 I am an analytics professional who is passionate about solving business problems by leveraging the power of data science and analytics. I aspire to become an **analytics translator** that bridges data science expertises with the business side and ensures the insights from analytics initiatives will impact the organization at scale.<br><br>
-My main focus is on **marketing analytics** which I gained during my tenure at **Meta** as **Marketing Science Partner**. I have strong background in statistics that enabled me to perform experimentation, statistical analysis, build machine learning models, and custom data analysis.<br><br>
+I have strong background in statistics and experience in performing experimentation (A/B testing, randomized controlled trials), which I gained from my study at **Columbia University** and my work as **Marketing Science Partner** at **Meta**. Currently my interests are in **marketing analytics** and **product analytics**.<br><br>
 Reach me at [natasyadenaya@gmail.com](mailto:natasyadenaya@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/natasyadenaya/).  
 
 
