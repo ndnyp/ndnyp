@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ndnyp/ndnyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I am an analytics professional who is passionate about solving business problems by leveraging the power of data science and analytics. I aspire to become an analytics translator that bridges data scientists' technical expertise with the business side and ensures the insights from analytics initiatives will impact the organization at scale.<br><br>My main focus is on marketing analytics which I gained during my tenure at ****************Meta**************** as **************************************************Marketing Science Partner**************************************************. I have strong background in statistics that enabled me to perform experimentation, statistical analysis, build machine learning models, and custom data analysis.<br><br>Reach me at natasyadenaya@gmail.com or connect with me on LinkedIn.
 
