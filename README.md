@@ -1,7 +1,6 @@
 
 
 # 👋🏼 Hi there, I'm Aya!  
-###   
   
 
 ## 👩🏻‍💻 Introductions  
