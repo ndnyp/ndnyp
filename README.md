@@ -46,7 +46,10 @@ Reach me at [natasyadenaya@gmail.com](mailto:natasyadenaya@gmail.com) or connect
 </td></tr></table>   
 
 
-## Projects  
-  
+## Project Highlights
+#### [Amazon Analytics Lab x Columbia University Applied Analytics Hackathon](https://drive.google.com/file/d/1s7J117RgzEVS0S_J0dJql1XLGPEUO6BT/view?usp=share_link)
+Built a model that will indicate the relevant scores in advertising a dog food brand with respect to customer features. Finished as **top 4** finalists among 46 participants in total.
+
+
 
 <br/>  
