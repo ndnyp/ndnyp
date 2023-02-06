@@ -47,7 +47,7 @@ Reach me at [natasyadenaya@gmail.com](mailto:natasyadenaya@gmail.com) or connect
 
 
 ## Project Highlights
-### [Amazon Analytics Lab x Columbia University Applied Analytics Hackathon](https://drive.google.com/file/d/1s7J117RgzEVS0S_J0dJql1XLGPEUO6BT/view?usp=share_link)
+### Amazon Analytics Lab x Columbia University Applied Analytics Hackathon
 Built a model that will indicate the relevant scores in advertising a dog food brand with respect to customer features. Finished as **top 4** finalists among 46 participants in total. *(Statistical Testing, Decision Trees, Linear Regression, Advertising, Hackathon)*
 
 ### [FAANG Companies Stock Price Data](https://public.tableau.com/views/FAANGCompaniesStockPriceData/SummaryInsights?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
