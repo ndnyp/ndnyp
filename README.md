@@ -6,7 +6,7 @@
 ## 👩🏻‍💻 Introductions  
 I am an analytics professional who is passionate about solving business problems by leveraging the power of data science and analytics. I aspire to become an **analytics translator** that bridges data science expertises with the business side and ensures the insights from analytics initiatives will impact the organization at scale.<br><br>
 I have strong background in statistics and experience in performing experimentation (A/B testing, randomized controlled trials), which I gained from my study at **Columbia University** and my work as **Marketing Science Partner** at **Meta**. Currently my interests are in **marketing analytics** and **product analytics**.<br><br>
-Reach me at [natasyadenaya@gmail.com](mailto:natasyadenaya@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/natasyadenaya/).  
+Reach me at [natasyadenaya@gmail.com](mailto:natasyadenaya@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/natasyapasha/).  
 
 
 ## My Skill Set  
@@ -47,7 +47,7 @@ Reach me at [natasyadenaya@gmail.com](mailto:natasyadenaya@gmail.com) or connect
 
 
 ## Project Highlights
-### Amazon Analytics Lab x Columbia University Applied Analytics Hackathon
+### [Amazon Analytics Lab x Columbia University Applied Analytics Hackathon](https://drive.google.com/file/d/100Wmpfr-bYRFKAO4432r3Ib2Fr3StOD0/view?usp=sharing)
 Built a model that will indicate the relevant scores in advertising a dog food brand with respect to customer features. Finished as **top 4** finalists among 46 participants in total. *(Statistical Testing, Decision Trees, Linear Regression, Advertising, Hackathon)*
 
 ### [FAANG Companies Stock Price Data](https://public.tableau.com/views/FAANGCompaniesStockPriceData/SummaryInsights?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
